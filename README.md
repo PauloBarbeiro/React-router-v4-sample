@@ -6,3 +6,5 @@ Node Modules not included. Create your app and use this code for testing.
 Implementing:
 - Route
 - Switch
+- Static Content
+- Dynamic Content
